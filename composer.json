@@ -1,0 +1,12 @@
+{
+    "name": "gb-oliveira/exemplo",
+    "description": "exemplo git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ticapril",
+            "email": "gb.oliveirati@gmail.com"
+        }
+    ],
+    "require": {}
+}
