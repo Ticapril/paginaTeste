@@ -8,5 +8,7 @@
             "email": "gb.oliveirati@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "twbs/bootstrap": "5.3.0-alpha3"
+    }
 }
